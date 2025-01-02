@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libSearchServer.a CMakeFiles/SearchServer.dir/SearchServer.cpp.obj
+C:\mingw64\bin\ranlib.exe libSearchServer.a

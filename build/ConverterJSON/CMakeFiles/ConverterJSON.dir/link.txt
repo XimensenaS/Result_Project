@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libConverterJSON.a CMakeFiles/ConverterJSON.dir/ConverterJSON.cpp.obj
+C:\mingw64\bin\ranlib.exe libConverterJSON.a

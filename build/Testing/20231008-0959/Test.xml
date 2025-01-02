@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20231008-0959-Experimental"
+	Name="DESKTOP-LCM5QHN"
+	Generator="ctest-3.26.3"
+	CompilerName="C:/mingw64/bin/g++.exe"
+	CompilerVersion="12.2.0"
+	OSName="Windows"
+	Hostname="DESKTOP-LCM5QHN"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="5"
+	ProcessorCacheSize="128"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="17373"
+	TotalPhysicalMemory="15804"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3493"
+	>
+	<Testing>
+		<StartDateTime>Oct 08 17:01 RTZ 2 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
+		<StartTestTime>1696773673</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 08 17:01 RTZ 2 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
+		<EndTestTime>1696773673</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
