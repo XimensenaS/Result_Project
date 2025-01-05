@@ -166,11 +166,7 @@ TEST(Сonverter, Put_Answers) {
 
     nlohmann::json read_json_answer;
     fstream file("testAnswerFile.json", ios::in);
-    if (file.is_open()) {
-        file >> read_json_answer;
-    } else {
-        cerr << "Unable to read file" << endl;
-    }
+
 
     ASSERT_EQ(read_json_answer.size(), 1);
     ASSERT_EQ("answers", read_json_answer.items().begin().key());
