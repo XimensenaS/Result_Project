@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Google_Tests_All_Test.dir/objects.a
-C:\mingw64\bin\ar.exe qc CMakeFiles\Google_Tests_All_Test.dir/objects.a @CMakeFiles\Google_Tests_All_Test.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Google_Tests_All_Test.dir/objects.a -Wl,--no-whole-archive -o C:\Users\User\Desktop\result_project\Google_Tests_All_Test.exe -Wl,--out-implib,libGoogle_Tests_All_Test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Google_Tests_All_Test.dir\linkLibs.rsp

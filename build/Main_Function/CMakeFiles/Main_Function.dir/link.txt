@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Main_Function.dir/objects.a
-C:\mingw64\bin\ar.exe qc CMakeFiles\Main_Function.dir/objects.a @CMakeFiles\Main_Function.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Main_Function.dir/objects.a -Wl,--no-whole-archive -o ..\Main_Function.exe -Wl,--out-implib,libMain_Function.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Main_Function.dir\linkLibs.rsp

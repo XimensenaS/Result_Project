@@ -1,5 +1,0 @@
-if(EXISTS "C:/Users/User/Desktop/result_project/build/search_engine[1]_tests.cmake")
-  include("C:/Users/User/Desktop/result_project/build/search_engine[1]_tests.cmake")
-else()
-  add_test(search_engine_NOT_BUILT search_engine_NOT_BUILT)
-endif()
